@@ -8,13 +8,13 @@
 
 - 🌱 I’m currently learning **I a a Bootcamp at Clarusway. I also study software and use programming languages ​​such as html, css, c# or javascript.**
 
-- 👨‍💻 All of my projects are available at [my profile: https://github.com/Cankalo](my profile: https://github.com/Cankalo)
+- 👨‍💻 All of my projects are available at [my profile: https://github.com/Cankalo]
 
 - 💬 Ask me about **my projects in my repositories**
 
 - 📫 How to reach me **Cemalcankal1903@gmail.com**
 
-- 📄 Know about my experiences [I have not so much experience yet at developer world but i am trying to improve myself.](I have not so much experience yet at developer world but i am trying to improve myself.)
+- 📄 Know about my experiences (I have not so much experience yet at developer world but i am trying to improve myself.)
 
 - ⚡ Fun fact **I'm just starting to learn to code – every line is a new adventure!" 😊**
 
