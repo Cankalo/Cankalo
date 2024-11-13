@@ -1,4 +1,4 @@
-![MasterHead](https://wallpapercave.com/wp/wp3082309.jpg)
+![MasterHead](https://external-preview.redd.it/new-dir-assistant-feature-cgrag-enabling-highly-accurate-v0-or8Nvf6XF-g-IYebnmj9KYxRi5oq2s2MlmOy3RpjREA.jpg?auto=webp&s=6176260f0ef54f45e6419adc10c3426333889fdb)
 <h1 align="center">Hi 👋, I'm Cemal</h1>
 <h3 align="center">A passionate frontend developer from Turkey/Netherlands</h3>
 
