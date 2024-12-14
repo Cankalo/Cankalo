@@ -6,9 +6,9 @@
 
 - 🔭 I’m currently working on school and Bootcamp [Clarusway](https://clarusway.com)
 
-- 🌱 I’m currently learning **I a a Bootcamp at Clarusway. I also study software and use programming languages ​​such as html, css, c# or javascript.**
+- 🌱 I’m currently working on ** Bootcamp at Clarusway. I also study software and use programming languages ​​such as html, css, c# or javascript.**
 
-- 👨‍💻 All of my projects are available at [my profile: https://github.com/Cankalo](my profile: https://github.com/Cankalo)
+- 👨‍💻 All of my projects are available at my profile: https://github.com/Cankalo(my profile: https://github.com/Cankalo)
 
 - 💬 Ask me about **my projects in my repositories**
 
