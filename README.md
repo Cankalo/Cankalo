@@ -30,6 +30,5 @@
 
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=cankalo&show_icons=true&locale=en&layout=compact" alt="cankalo" /></p>
 
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=cankalo&show_icons=true&locale=en" alt="cankalo" /></p>
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=cankalo&" alt="cankalo" /></p>
