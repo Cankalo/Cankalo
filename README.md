@@ -1,4 +1,4 @@
-![masterhead](https://static.vecteezy.com/system/resources/previews/023/186/315/large_2x/eagle-portrait-on-a-black-background-digital-painting-3d-illustration-ai-generative-image-free-photo.jpg)
+![masterhead](https://www.yamaha-motor.eu/content/dam/yme/language-masters/en/2023_MC_Supersport-1.jpg)
 <h1 align="center">Hi 👋, I'm Cemal</h1>
 <h3 align="center">A passionate frontend developer from Turkey/Netherlands</h3>
 
