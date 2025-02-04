@@ -16,7 +16,7 @@
 
 - 📫 How to reach me **Cemalcankal1903@gmail.com**
 
-- 📄 Know about my experiences [I have not so much experience yet at developer world but i am trying to improve myself.](I have not so much experience yet at developer world but i am trying to improve myself.)
+- 📄 Know about my experiences (I have not so much experience yet at developer world but i am trying to improve myself.)
 
 - ⚡ Fun fact **I'm just starting to learn to code – every line is a new adventure!" 😊**
 
