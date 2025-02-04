@@ -1,4 +1,4 @@
-![masterhead](https://cdn.pixabay.com/photo/2024/01/02/20/53/ai-generated-8483952_1280.jpg)
+![masterhead](https://static.vecteezy.com/system/resources/previews/023/186/315/large_2x/eagle-portrait-on-a-black-background-digital-painting-3d-illustration-ai-generative-image-free-photo.jpg)
 <h1 align="center">Hi 👋, I'm Cemal</h1>
 <h3 align="center">A passionate frontend developer from Turkey/Netherlands</h3>
 
